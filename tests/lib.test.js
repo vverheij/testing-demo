@@ -38,7 +38,6 @@ describe('get currencies', () => {
 describe('Get product', () => {
     it('should return product with the given id', () => {
         const result = lib.getProduct(1);
-        
     
     })
 });
